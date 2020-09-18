@@ -1,0 +1,6 @@
+---
+# tasks file for nodejs
+- import_tasks: '{{ node_action }}.yml'
+  tags:
+    - nodejs
+    - node

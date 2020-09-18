@@ -1,0 +1,5 @@
+---
+# defaults file for nodejs
+node_action: install
+node_version: v12.18.0
+node_version_set_as_default: yes
